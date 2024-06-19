@@ -30,4 +30,4 @@ Es como un buzón donde guardas cartas (emails) digitales. Puedes recibir y envi
 
 ## Aplicaciones de redes sociales
 Las aplicaciones como Facebook, Instagram o Twitter también utilizan almacenamiento para guardar las fotos y videos que subes desde tu dispositivo. Estos archivos se almacenan en servidores remotos (la "nube") en lugar de en tu dispositivo físico, pero para el usuario final, el concepto sigue siendo el mismo: es donde se guardan tus datos.
-![]()
+![](https://e7.pngegg.com/pngimages/483/547/png-clipart-social-media-social-cloud-computing-cloud-storage-social-networking-service-text-cloud-computing.png)
